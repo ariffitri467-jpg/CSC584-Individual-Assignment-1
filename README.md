@@ -51,7 +51,7 @@ Fill in the form and click **Submit Profile**.
 
 ## Author
 
-* Name: YOUR NAME
-* Student ID: YOUR STUDENT ID
-* Programme: YOUR PROGRAMME
+* Name: MUHAMMAD ARIF FITRI BIN SUHAIMI
+* Student ID: 2025508407
+* Programme: CDCS240
 
