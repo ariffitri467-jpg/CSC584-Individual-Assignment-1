@@ -43,12 +43,6 @@ and select **GlassFish Server**.
 5. The browser opens `http://localhost:8080/PersonalProfile/`.
 Fill in the form and click **Submit Profile**.
 
-## Screenshots
-
-|Form|Profile output|
-|-|-|
-|!\[Form](screenshots/form.png)|!\[Profile](screenshots/profile.png)|
-
 ## Author
 
 * Name: MUHAMMAD ARIF FITRI BIN SUHAIMI
